@@ -1,0 +1,2 @@
+* Original URL: https://spring.io/guides/gs/uploading-files/
+* Khi tạo project bằng Spring Boot Initialzr thì trong cấu hình tự động của Spring MVC, Bean có tên MultipartConfigElement đã đợc tự động tạo sẵn.
